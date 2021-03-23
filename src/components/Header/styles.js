@@ -12,6 +12,6 @@ export default makeStyles(() => ({
     },
     logo: {
         height: '100%',
-        width: '30%',
+        width: '20%',
     }, 
 }))

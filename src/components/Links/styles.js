@@ -2,6 +2,7 @@ import { makeStyles } from '@material-ui/core';
 
 export default makeStyles(() => ({
     header: {
+        fontSize: 36,
         textAlign: 'center',
         width: '80vw',
     },
@@ -9,7 +10,7 @@ export default makeStyles(() => ({
         display: 'flex',
         flexDirection: 'row',
         flexWrap: 'wrap',
-        height: '90vh',
+        height: '80vh',
         justifyContent: 'space-around',
         marginTop: 10,
         width: '80vw'
